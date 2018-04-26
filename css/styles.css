@@ -28,3 +28,6 @@ body{
 .party-time{
   background-color:#F15A29;
 }
+#background-foodsBg{
+  background: url("../images/backgrounds/foodsBg.jpg")
+}

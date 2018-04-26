@@ -1,0 +1,14 @@
+body{
+  background: url("../images/backgrounds/landing.jpg");
+  background-repeat: no-repeat;
+}
+.logo{
+  margin: auto;
+  padding-left: 100px;
+  padding-top:100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+}
+.logo p{
+  color: white;
+}

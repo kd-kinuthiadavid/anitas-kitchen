@@ -3,12 +3,28 @@ body{
   background-repeat: no-repeat;
 }
 .logo{
-  margin: auto;
-  padding-left: 100px;
+
+  padding-left: 320px;
   padding-top:100px;
   padding-right: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 200px;
+  border-bottom: 100px;
 }
 .logo p{
   color: white;
+}
+.logo img{
+  border-bottom: 100px;
+}
+.Breakfast{
+  background: url("../images/foodtop/breakfast.jpg");
+}
+.lunch{
+  background: url("../images.foodtop/lunch.jpg");
+}
+.Dinner{
+  background: url("../images/foodtop/dinner.jpg");
+}
+.party-time{
+  background-color:#F15A29;
 }

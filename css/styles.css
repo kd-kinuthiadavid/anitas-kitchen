@@ -29,5 +29,8 @@ body{
   background-color:#F15A29;
 }
 #background-foodsBg{
-  background: url("../images/backgrounds/foodsBg.jpg")
+  background: url("../images/backgrounds/foodsBg.jpg");
+}
+.footer{
+  background:url("../images/backgrounds/subscribe.jpg");
 }

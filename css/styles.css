@@ -18,15 +18,29 @@ body{
 }
 .Breakfast{
   background: url("../images/foodtop/breakfast.jpg");
+  color: white;
+  text-align: center;vertical-align: middle;
+  width: 110%;
+  margin: :0px;
+  padding: 40px;
 }
 .lunch{
   background: url("../images/foodtop/lunch.jpg");
+  width:110%;
+  color: white;
+  padding: 40px;
+  margin: 0px;
 }
 .Dinner{
   background: url("../images/foodtop/dinner.jpg");
 }
 .party-time{
   background-color:#F15A29;
+  color: white;
+  height: 80px;
+  padding-left: 0px;
+  overflow: hidden;
+
 }
 #background-foodsBg{
   background: url("../images/backgrounds/foodsBg.jpg");
@@ -36,4 +50,10 @@ body{
 }
 .Tocenter{
   margin-left: 47%;
+}
+.backgroundImage{
+  background-color:#F15A29;
+}
+#happy-party{
+  padding: 0px;
 }

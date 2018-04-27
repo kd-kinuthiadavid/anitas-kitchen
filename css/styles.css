@@ -19,13 +19,16 @@ body{
 .Breakfast{
   background: url("../images/foodtop/breakfast.jpg");
   color: white;
-  text-align: center;vertical-align: middle;
+  text-align: center;
+  vertical-align: middle;
   width: 110%;
   margin: :0px;
   padding: 40px;
 }
 .lunch{
   background: url("../images/foodtop/lunch.jpg");
+  text-align: center;
+  vertical-align: middle;
   width:110%;
   color: white;
   padding: 40px;

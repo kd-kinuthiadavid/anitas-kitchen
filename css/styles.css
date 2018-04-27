@@ -84,3 +84,6 @@ body{
   width: 110%;
 
 }
+.float-left{
+  float: left;
+}

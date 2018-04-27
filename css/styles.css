@@ -96,3 +96,20 @@ body{
   padding-top:40px;
   margin-top: 50px;
 }
+.customers{
+
+width: 80%;
+margin-top: 10%;
+margin-bottom: 10%;
+margin-left: 10%;
+margin-right: 10%;
+border-color: transparent;
+border-style: solid;
+border-width: 5px;
+border-radius: 5px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+.CUSTOMERS{
+  padding: 0px;
+}

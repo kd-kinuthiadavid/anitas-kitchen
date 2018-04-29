@@ -138,8 +138,77 @@ border-width: 5px;
 border-radius: 5px;
 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
+.media{
+padding: 0;
+height: 850px;
+width:100%;
+background-image: url("../images/landing.jpg");
+ background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+margin-top: 70px;
+}
+.logo{
+margin-top: 0px;
+text-align: center;
+padding-top: inherit;
+height: 900px;
+background: url("../images/landing.jpg");
 
-
+}
+.men{
+margin-top: 20px;
+margin-left: 20px;
+background-color: transparent;
+height: 50px;
+width: 75px;
+}
+.overlayMenu {
+height: 100%;
+width: 0;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color: #F15A29;
+overflow-x: hidden;
+transition: 0.5s;
+}
+.overlay-content {
+position: relative;
+top: 25%;
+width: 100%;
+text-align: center;
+margin-top: 30px;
+}
+.overlayMenu a {
+padding: 8px;
+text-decoration: none;
+font-size: 36px;
+color: #000000;
+display: block;
+transition: 0.3s;
+}
+.overlayMenu a:hover, .overlayMenu a:focus {
+color: #f1f1f1;
+}
+.overlayMenu .closebtn {
+position: absolute;
+top: 20px;
+right: 45px;
+font-size: 60px;
+}
+.header{
+margin-top: 3%;
+text-align: center;
+font-family: 'Handlee', Open Sans;
+color: white;
+font-size: 60px;
+}
 
 
 

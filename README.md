@@ -11,6 +11,6 @@ No Bugs
 HTML, CSS, bootstrap,js.
 ## Support and contact details
 Email:kd-kinuthiadavid@gmail.com
-### License
+
 
 Copyright (c) 2018. **Kinuthia David**

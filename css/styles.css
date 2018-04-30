@@ -189,7 +189,7 @@ height: 900px;
 background: url("../images/landing.jpg");
 
 }
-.men{
+.YES{
 margin-top: 20px;
 margin-left: 20px;
 background-color: transparent;
@@ -261,7 +261,7 @@ color: #ecf0f1;
   border-radius: 5px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
-.media2{
+.FOODSS{
 padding: 0;
 height: 600px;
 width:100%;
@@ -270,7 +270,7 @@ background-image: url("../images/backgrounds/foodsBg.jpg");
 background-position: center center;
 background-size: cover;
 }
-.party{
+.anita{
 height: 400px;
 width: 80%;
 margin-top: 100px;
@@ -279,11 +279,11 @@ margin-left: 10%;
 margin-right: 10%;
 background-color: #ffffff;
 }
-#burger{
+#FOODS{
 	text-align: center;
 	padding: 50px;
 }
-.partyhead{
+.kitchen{
 height: 50px;
 width: 100%;
 background-color: #ccc;
@@ -333,7 +333,7 @@ text-align: center;
 margin-top: 2%;
 color: #ffffff;
 }
-.media3{
+.mailArea{
 padding: 0;
 height: 300px;
 width:100%;
